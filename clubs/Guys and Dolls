@@ -1,0 +1,22 @@
+{
+  "name": "Guys and Dolls Dance Company",
+  "description": "Guys and Dolls is a Whitney Young Pre-Professional Dance Company led by WYHS Dance Director Jeanette Gordon and composed of WY students.": [
+    {
+      "position": "Captain",
+      "name": "Kyla Hubbard"
+    
+    },
+    {
+      "position": "Co-Captain",
+      "name": "Corinne Salter"
+    }
+    {
+      "position": "Director",
+      "name": "Ms. Gordon jlgordon@cps.edu"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Performances",
+      "description": "Guys and Dolls Dance Show: January 17/18 7pm. Dance Department Spring Show May 1/2."
+    }
